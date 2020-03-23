@@ -27,7 +27,6 @@ Make sure all dependencies have been installed before moving on:
 Install Sage using Composer from your WordPress themes directory (replace `your-theme-name` below with the name of your theme):
 
 ```shell
-# @ app/themes/ or wp-content/themes/
 $ composer create-project cit/wp-sage-101 theme-name/
 ```
 
