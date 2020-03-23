@@ -1,0 +1,283 @@
+{
+    "project_logo": null,
+    "project_favicon": "favicon.png",
+    "project_name": null,
+    "project_url": null,
+    "copyright_start_year": null,
+    "client_name": null,
+    "client_url": null,
+    "creators": [
+        {
+            "name": null,
+            "url": null
+        }
+    ],
+    "theme": {
+        "border_color": "#E0E6ED",
+        "highlight_color": "#F9FAFC",
+        "brand_color": "#00585C",
+        "background_color": "#FFFFFF",
+        "code_highlight_theme": "github",
+        "override_code_highlight_bg": "#F9FAFC",
+        "sample_dark_background": "#333333",
+        "show_project_name": true,
+        "show_version": true,
+        "max_width": null,
+        "titles": {
+            "library_title": "Pattern Library",
+            "pages_title": "Overview",
+            "components_title": "Components"
+        }
+    },
+    "assets": {
+        "css": [
+            "http://research.com/app/themes/wp-sage-101/dist/styles/main.css"
+        ],
+        "js": [
+            "http://research.com/app/themes/wp-sage-101/dist/scripts/main.js"
+        ]
+    },
+    "font_libraries": {
+        "typekit_code": null,
+        "typography_web_fonts": null,
+        "google_web_fonts": null
+    },
+    "content": {
+        "show_first_page_on_load": true,
+        "title": "Overview",
+        "pages": [
+            {
+                "name": "introduction",
+                "title": "Introduction",
+                "file": "./pages/intro.md"
+            }
+        ]
+    },
+    "groups": [
+        {
+            "name": "buttons",
+            "title": "Buttons",
+            "components": [
+                {
+                    "group": "buttons",
+                    "name": "primary",
+                    "title": "Primary",
+                    "width": "half"
+                },
+                {
+                    "group": "buttons",
+                    "name": "secondary",
+                    "title": "Buttons",
+                    "width": "half"
+                },
+                {
+                    "group": "buttons",
+                    "name": "success",
+                    "title": "Buttons",
+                    "width": "half"
+                },
+                {
+                    "group": "buttons",
+                    "name": "danger",
+                    "title": "Buttons",
+                    "width": "half"
+                },
+                {
+                    "group": "buttons",
+                    "name": "warning",
+                    "title": "Warning",
+                    "width": "half"
+                },
+                {
+                    "group": "buttons",
+                    "name": "info",
+                    "title": "Info",
+                    "width": "half"
+                }
+            ]
+        },
+        {
+            "name": "inputs",
+            "title": "Inputs",
+            "components": [
+                {
+                    "group": "inputs",
+                    "name": "input",
+                    "title": "text",
+                    "width": "half"
+                },
+                {
+                    "group": "inputs",
+                    "name": "Number",
+                    "title": "Number",
+                    "width": "half"
+                },
+                {
+                    "group": "inputs",
+                    "name": "Single",
+                    "title": "Single choice",
+                    "width": "half"
+                },
+                {
+                    "group": "inputs",
+                    "name": "Multiple",
+                    "title": "Multiple choice",
+                    "width": "half"
+                },
+                {
+                    "group": "inputs",
+                    "name": "Checkbox",
+                    "title": "Checkbox",
+                    "width": "half"
+                },
+                {
+                    "group": "inputs",
+                    "name": "Radio",
+                    "title": "Radio buttons",
+                    "width": "half"
+                },
+                {
+                    "group": "inputs",
+                    "name": "Textarea",
+                    "title": "Textarea",
+                    "width": "half"
+                },
+                {
+                    "group": "inputs",
+                    "name": "File",
+                    "title": "File upload",
+                    "width": "half"
+                },
+                {
+                    "group": "inputs",
+                    "name": "Datalist",
+                    "title": "Datalist",
+                    "width": "half"
+                },
+                {
+                    "group": "inputs",
+                    "name": "Date",
+                    "title": "Date",
+                    "width": "half"
+                },
+                {
+                    "group": "inputs",
+                    "name": "Label",
+                    "title": "Label",
+                    "width": "half"
+                }
+            ]
+        },
+        {
+            "name": "UI-kit",
+            "title": "UI-Kit",
+            "components": [
+                {
+                    "group": "UI-kit",
+                    "name": "Vertical",
+                    "title": "Vertical Tab",
+                    "width": "half"
+                },
+                {
+                    "group": "UI-kit",
+                    "name": "horizontal",
+                    "title": "Horizontal Tab",
+                    "width": "half"
+                },
+                {
+                    "group": "UI-kit",
+                    "name": "Accordion",
+                    "title": "Accordion",
+                    "width": "full"
+                },
+                {
+                    "group": "UI-kit",
+                    "name": "Table",
+                    "title": "Table",
+                    "width": "half"
+                },
+                {
+                    "group": "UI-kit",
+                    "name": "Modal",
+                    "title": "Modal",
+                    "width": "half"
+                }
+            ]
+        },
+        {
+            "name": "pagelayout",
+            "title": "PageLayout",
+            "components": [
+                {
+                    "group": "pagelayout",
+                    "name": "header",
+                    "title": "Header",
+                    "width": "full"
+                },
+                {
+                    "group": "pagelayout",
+                    "name": "Maincontent",
+                    "title": "MainContent"
+                },
+                {
+                    "group": "pagelayout",
+                    "name": "Rightsidebar",
+                    "title": "Rightsidebar"
+                },
+                {
+                    "group": "pagelayout",
+                    "name": "Leftsidebar",
+                    "title": "Leftsidebar"
+                },
+                {
+                    "group": "pagelayout",
+                    "name": "Footer",
+                    "title": "Footer"
+                },
+                {
+                    "group": "pagelayout",
+                    "name": "Comments",
+                    "title": "Comments",
+                    "width": "half"
+                }
+            ]
+        },
+        {
+            "name": "Branding",
+            "title": "Branding",
+            "components": [
+                {
+                    "group": "Branding",
+                    "name": "Logo",
+                    "title": "Logo",
+                    "width": "half"
+                },
+                {
+                    "group": "Branding",
+                    "name": "Typography",
+                    "title": "Typography",
+                    "width": "half"
+                },
+                {
+                    "group": "Branding",
+                    "name": "FontItalic",
+                    "title": "FontItalic",
+                    "width": "half"
+                },
+                {
+                    "group": "Branding",
+                    "name": "Fontnormal",
+                    "title": "Fontnormal",
+                    "width": "half"
+                },
+                {
+                    "group": "Branding",
+                    "name": "Normaltext",
+                    "title": "Normaltext",
+                    "width": "half"
+                }
+            ]
+        }
+    ],
+    "version": "1.9.5"
+}

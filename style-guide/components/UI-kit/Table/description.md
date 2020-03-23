@@ -1,0 +1,1 @@
+You can make table responsive useing .table-responsive class.

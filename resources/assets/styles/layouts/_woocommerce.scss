@@ -1,0 +1,49 @@
+.woocommerce div.product form.cart .button {
+  padding: 16px 20px;
+}
+
+.woocommerce .content {
+  width: 100%;
+}
+
+/******************** Single Product Page - Start ***********************/
+.woocommerce div.product .woocommerce-tabs .panel {
+  border: none;
+  text-align: justify;
+  padding: 20px;
+}
+
+/******************** Single Product Page - End ***********************/
+
+/******************** Checkout Page - Start ***********************/
+.woocommerce-checkout-payment label {
+  width: 75%;
+}
+
+.checkout.woocommerce-checkout .woocommerce-billing-fields label,
+.checkout.woocommerce-checkout .woocommerce-shipping-fields label,
+.woocommerce-input-wrapper {
+  width: 100%;
+}
+
+.woocommerce-page.woocommerce-checkout form #customer_details.col2-set .col-1,
+.woocommerce-page.woocommerce-checkout form #customer_details.col2-set .col-2,
+.woocommerce.woocommerce-checkout form #customer_details.col2-set .col-1,
+.woocommerce.woocommerce-checkout form #customer_details.col2-set .col-2 {
+  width: auto;
+  float: none;
+  max-width: 60%;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.woocommerce-page.woocommerce-checkout form #customer_details.col2-set .col-2,
+.woocommerce.woocommerce-checkout form #customer_details.col2-set .col-2 {
+  width: auto;
+  float: none;
+  max-width: 39%;
+  display: inline-block;
+  vertical-align: top;
+}
+
+/******************** Checkout Page - End ***********************/
