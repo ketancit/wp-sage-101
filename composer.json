@@ -1,6 +1,6 @@
 {
   "name": "cit/wp-sage-101",
-  "type": "wordpress-theme",
+  "type": "project",
   "license": "MIT",
   "description": "WordPress starter theme with a modern development workflow",
   "homepage": "https://conscienceit.com/",
