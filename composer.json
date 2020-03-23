@@ -1,24 +1,24 @@
 {
-  "name": "roots/sage",
+  "name": "cit/wp-sage-101",
   "type": "wordpress-theme",
   "license": "MIT",
   "description": "WordPress starter theme with a modern development workflow",
-  "homepage": "https://roots.io/sage/",
+  "homepage": "https://conscienceit.com/",
   "authors": [
     {
-      "name": "Ben Word",
-      "email": "ben@benword.com",
-      "homepage": "https://github.com/retlehs"
+      "name": "Ketan Vyawahare",
+      "email": "ketanv@conscienceit.com",
+      "homepage": "https://conscienceit.com"
     },
     {
-      "name": "Scott Walkinshaw",
-      "email": "scott.walkinshaw@gmail.com",
-      "homepage": "https://github.com/swalkinshaw"
+      "name": "Siddhartha Banerjee",
+      "email": "siddharthab@conscienceit.com",
+      "homepage": "https://conscienceit.com"
     },
     {
-      "name": "QWp6t",
-      "email": "hi@qwp6t.me",
-      "homepage": "https://github.com/qwp6t"
+      "name": "Ketan Bhokare",
+      "email": "ketanb@conscienceit.com",
+      "homepage": "https://conscienceit.com"
     }
   ],
   "keywords": ["wordpress"],
