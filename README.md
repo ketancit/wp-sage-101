@@ -56,5 +56,4 @@ So 'WP Sage 101' is based on the starter theme provided by [Roots](https://roots
 - #### Style Guide 
   - As a proof of Component Driven Development, the WP Sage 101 provides you a style guide of all the components of the theme. 
   - On installing and activating the theme, you will see a new menu on WP Dashboard named as 'Style Guide'. On click of this menu, you will be redirected on the style guide page of the theme. 
-  - Here you can see the screenshot of the 'Style Guide' page:
-  - <p align="center"><img src="https://github.com/ketancit/gallery/blob/master/style-guide.png"/></p>
+  - Here you can see the screenshot of the 'Style Guide' page: <p align="center"><img src="https://github.com/ketancit/gallery/blob/master/style-guide.png"/></p>
