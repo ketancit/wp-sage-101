@@ -50,6 +50,6 @@ So 'WP Sage 101' is based on the starter theme provided by [Roots](https://roots
 
 ### Features
 - Compatible with
- - WooCommerce
- - Latest WP
- - Gutenberg
+  - WooCommerce
+  - Latest WP
+  - Gutenberg
