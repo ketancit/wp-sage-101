@@ -53,4 +53,5 @@ So 'WP Sage 101' is based on the starter theme provided by [Roots](https://roots
   - WooCommerce
   - Latest WP
   - Gutenberg
-- 
+- #### Style Guide
+The WP Sage 101 provides you a style guide of all the components of the theme. 
