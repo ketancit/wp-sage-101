@@ -31,6 +31,9 @@ Install Sage using Composer from your WordPress themes directory (replace `your-
 
 ```shell
 $ composer create-project cit/wp-sage-101 theme-name/
+$ cd theme-name/
+$ yarn
+$ yarn build
 ```
 
 During theme installation you will have options to update `style.css` theme headers, select a CSS framework, and configure Browsersync.
