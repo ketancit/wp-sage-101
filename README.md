@@ -3,7 +3,7 @@
 **WP Sage 101** is a starter theme developed by Conscience Information Technologies based on the starter theme framework provided by Roots. 
 
 WP Sage 101 is part of our gadgetbox that we use in our developement. As shown below:
-![Image of Gadgetbox](https://conscienceit-my.sharepoint.com/personal/ketanv_conscienceit_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fketanv%5Fconscienceit%5Fcom%2FDocuments%2FGadgetbox%2Fimg%5F01%2Ejpg&parent=%2Fpersonal%2Fketanv%5Fconscienceit%5Fcom%2FDocuments%2FGadgetbox&originalPath=aHR0cHM6Ly9jb25zY2llbmNlaXQtbXkuc2hhcmVwb2ludC5jb20vOmk6L3Ava2V0YW52L0VXRHdJOU9tcENSRXNBaWV1OThJb0xrQmktQ2psQ09nNU1xNUU0anh1S1JOcWc_cnRpbWU9eXJod3JkblAxMGc)
+![Image of Gadgetbox](https://github.com/ketancit/wp-sage-101/blob/master/img_01.jpg)
 
 ## For Developers
 
