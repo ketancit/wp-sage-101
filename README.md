@@ -53,5 +53,6 @@ So 'WP Sage 101' is based on the starter theme provided by [Roots](https://roots
   - WooCommerce
   - Latest WP
   - Gutenberg
-- #### Style Guide
-The WP Sage 101 provides you a style guide of all the components of the theme. 
+- #### Style Guide 
+  - The WP Sage 101 provides you a style guide of all the components of the theme. 
+  - On installing and activating the theme, you will see a new menu on WP Dashboard named as 'Style Guide'. On click of this menu, you will be redirected on the style guide page of the theme. 
