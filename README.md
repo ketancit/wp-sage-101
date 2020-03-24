@@ -49,7 +49,8 @@ So to meet with this methodology, Conscience is creating it's own toolchain for 
 So 'WP Sage 101' is based on the starter theme provided by [Roots](https://roots.io/sage/). By default, there is almost no styling in the theme. So taking this starter theme as a framework, Conscience has come up with 'WP Sage 101' with some basic look and features.    
 
 ### Features
-- Compatible with
+- Compatible with latest versions of
   - WooCommerce
   - Latest WP
   - Gutenberg
+- 
