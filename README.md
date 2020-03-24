@@ -2,7 +2,9 @@
 
 **WP Sage 101** is a starter theme developed by Conscience Information Technologies based on the starter theme framework provided by Roots. 
 
-## Features for Developers
+## For Developers
+
+### Features
 
 * Sass for stylesheets
 * Modern JavaScript
@@ -12,7 +14,7 @@
 * [Controller](https://github.com/soberwp/controller) for passing data to Blade templates
 * CSS framework (optional): [Bootstrap 4](https://getbootstrap.com/), [Bulma](https://bulma.io/), [Foundation](https://foundation.zurb.com/), [Tachyons](http://tachyons.io/), [Tailwind](https://tailwindcss.com/)
 
-## Requirements
+### Requirements
 
 Make sure all dependencies have been installed before moving on:
 
@@ -22,7 +24,7 @@ Make sure all dependencies have been installed before moving on:
 * [Node.js](http://nodejs.org/) >= 8.0.0
 * [Yarn](https://yarnpkg.com/en/docs/install)
 
-## Theme installation
+### Theme installation
 
 Install Sage using Composer from your WordPress themes directory (replace `your-theme-name` below with the name of your theme):
 
