@@ -38,11 +38,12 @@ $ yarn build
 
 During theme installation you will have options to update `style.css` theme headers, select a CSS framework, and configure Browsersync.
 
-## About WP Sage 101 and Conscience Information Technolgies
+## WP Sage 101 and Conscience Information Technolgies
 [Conscience Information Technologies](https://conscienceit.com) believes in [12 Factor](https://12factor.net/) methodology for web development. 
 
 So to meet with this methodology, Conscience is creating it's own toolchain for [Wordpress Services](https://conscienceit2018.wixsite.com/website-1/copy-of-moodle) provided by Conscience Information Technologies. **WP Sage 101** is one of the tools of Conscience Information Technologies. See the image below: 
 <p align="center">
 <img src="https://github.com/ketancit/gallery/blob/master/img_01.jpg"/>
 </p>
-
+ 
+So 'WP Sage 101' is based on the starter theme provided by [Roots](https://roots.io/sage/). By default, there is almost no styling in the theme. So taking this starter theme as a framework, Conscience has come up with 'WP Sage 101' with some basic look and features.    
