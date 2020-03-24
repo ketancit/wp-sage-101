@@ -42,5 +42,7 @@ During theme installation you will have options to update `style.css` theme head
 [Conscience Information Technologies](https://conscienceit.com) believes in [12 Factor](https://12factor.net/) methodology for web development. 
 
 So to meet with this methodology, Conscience is creating it's own toolchain for [Wordpress Services](https://conscienceit2018.wixsite.com/website-1/copy-of-moodle) provided by Conscience Information Technologies. **WP Sage 101** is one of the tools of Conscience Information Technologies. See the image below: 
-![Image of Gadgetbox](https://github.com/ketancit/gallery/blob/master/img_01.jpg)
+<p align="center">
+<img src="https://github.com/ketancit/gallery/blob/master/img_01.jpg"/>
+</p>
 
