@@ -35,8 +35,10 @@ $ composer create-project cit/wp-sage-101 theme-name/
 
 During theme installation you will have options to update `style.css` theme headers, select a CSS framework, and configure Browsersync.
 
-## For Users
-[Conscience Information Technologies](https://conscienceit.com)
+## About WP Sage 101 and Conscience Information Technolgies
+[Conscience Information Technologies](https://conscienceit.com) believes in [12 Factor](https://12factor.net/) methodology for web development. 
+
+So to meet with this methodology, Conscience is creating it's own toolchain for [Wordpress Services](https://conscienceit2018.wixsite.com/website-1/copy-of-moodle) provided by Conscience Information Technologies. 
 
 **WP Sage 101** is one of the tools of Conscience Information Technologies. 
 ![Image of Gadgetbox](https://github.com/ketancit/gallery/blob/master/img_01.jpg)
