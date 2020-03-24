@@ -35,6 +35,8 @@ $ cd theme-name/
 $ yarn
 $ yarn build
 ```
+During theme installation you will have options to update `style.css` theme headers, select a CSS framework, and configure Browsersync.
+
 ### File Structure
 ```shell
 themes/your-theme-name/   # → Root of your Sage based theme
@@ -66,9 +68,6 @@ themes/your-theme-name/   # → Root of your Sage based theme
 │       └── partials/     # → Partial templates
 └── vendor/               # → Composer packages (never edit)
 ```
-
-During theme installation you will have options to update `style.css` theme headers, select a CSS framework, and configure Browsersync.
-
 ## WP Sage 101 and Conscience Information Technologies
 [Conscience Information Technologies](https://conscienceit.com) believes in [12 Factor](https://12factor.net/) methodology for web development. 
 
